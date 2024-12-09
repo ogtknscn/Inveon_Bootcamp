@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\iii_iv_cachingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\iii_iv_cachingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\iii_iii_errorhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\iii_iii_errorhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\iii_ii_pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\iii_ii_pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\iii_i_apiendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\iii_i_apiendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\ii_ii_asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\ii_ii_asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\ii_i_asyncmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\ii_i_asyncmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\i_ii_ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\i_ii_ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\i_v_dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\i_v_dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\i_iv_isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\i_iv_isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\i_iii_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\i_iii_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|c:\\users\\sezai\\source\\repos\\inveon bootcamp\\week_1_homework\\i_i_srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F51122-461A-4B1F-BBFD-C626272A76DA}|Week_1_Homework\\Week_1_Homework.csproj|solutionrelative:week_1_homework\\i_i_srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "III_IV_CachingApi.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_IV_CachingApi.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\III_IV_CachingApi.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_IV_CachingApi.cs",
+              "RelativeToolTip": "Week_1_Homework\\III_IV_CachingApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:19:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "III_III_ErrorHandling.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_III_ErrorHandling.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\III_III_ErrorHandling.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_III_ErrorHandling.cs",
+              "RelativeToolTip": "Week_1_Homework\\III_III_ErrorHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:16:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "III_II_Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_II_Pagination.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\III_II_Pagination.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_II_Pagination.cs",
+              "RelativeToolTip": "Week_1_Homework\\III_II_Pagination.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:11:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "III_I_ApiEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_I_ApiEndpoint.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\III_I_ApiEndpoint.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\III_I_ApiEndpoint.cs",
+              "RelativeToolTip": "Week_1_Homework\\III_I_ApiEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:58:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "II_II_AsyncAwait.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\II_II_AsyncAwait.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\II_II_AsyncAwait.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\II_II_AsyncAwait.cs",
+              "RelativeToolTip": "Week_1_Homework\\II_II_AsyncAwait.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:42:30.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "II_I_AsyncMethod.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\II_I_AsyncMethod.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\II_I_AsyncMethod.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\II_I_AsyncMethod.cs",
+              "RelativeToolTip": "Week_1_Homework\\II_I_AsyncMethod.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:11:16.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "I_V_Dip.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_V_Dip.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\I_V_Dip.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_V_Dip.cs",
+              "RelativeToolTip": "Week_1_Homework\\I_V_Dip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:51:29.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "I_IV_Isp.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_IV_Isp.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\I_IV_Isp.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_IV_Isp.cs",
+              "RelativeToolTip": "Week_1_Homework\\I_IV_Isp.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:47:58.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "I_III_Lsp.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_III_Lsp.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\I_III_Lsp.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_III_Lsp.cs",
+              "RelativeToolTip": "Week_1_Homework\\I_III_Lsp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:41:37.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "I_II_Ocp.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_II_Ocp.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\I_II_Ocp.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_II_Ocp.cs",
+              "RelativeToolTip": "Week_1_Homework\\I_II_Ocp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:17:17.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "I_I_Srp.cs",
+              "DocumentMoniker": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_I_Srp.cs",
+              "RelativeDocumentMoniker": "Week_1_Homework\\I_I_Srp.cs",
+              "ToolTip": "C:\\Users\\sezai\\source\\repos\\Inveon Bootcamp\\Week_1_Homework\\I_I_Srp.cs",
+              "RelativeToolTip": "Week_1_Homework\\I_I_Srp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:54:25.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
